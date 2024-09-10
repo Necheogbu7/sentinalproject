@@ -26,10 +26,10 @@ Look up the attackers' Geolocation information and plot it on an Azure Sentinel 
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Attacks from ukraine coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/2MViSiL.jpg" (https://imgur.com/2MViSiL) height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.ibb.co/kBsGJkr/Screenshot-2024-09-10-104511.png" alt="Screenshot-2024-09-10-104511" height="85%" width="85%" />
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
