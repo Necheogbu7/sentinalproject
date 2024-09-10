@@ -32,10 +32,16 @@ Look up the attackers' Geolocation information and plot it on an Azure Sentinel 
 <img src="https://i.ibb.co/kBsGJkr/Screenshot-2024-09-10-104511.png" alt="Screenshot-2024-09-10-104511" height="85%" width="85%" />
 </p>
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<h2>World map of incoming attacks after 30 min  (built custom logs including geodata)</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+<h2>World map of incoming attacks after 1 hour   (built custom logs including geodata)</h2>
+
+<p align="center">
+<b><img src="https://i.ibb.co/bgpFK8Q/Screenshot-2024-09-10-103650.png" alt="Screenshot-2024-09-10-103650" height="85%" width="85%" /></b>
+
 </p>
 
 
